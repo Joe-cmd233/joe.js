@@ -35,8 +35,8 @@ function timerend() { TimeRanges.end()}
 //fast page reload
 function resetPage() {window.location.reload()}
 
-//in works page for if you are yet working in the page and you don't wan't the people having
-//problem in the page this is why this library comes with a html file.
+//in works page for if you are yet working in the page and you don't want
+// the people having problem in the page and just use this as a sample.
 function inWorks() {alert("This part isn’t ready enough." +
  "So if you want to continue your journey try again later!" +
     "Thank you for understanding! 😊👌");}
